@@ -35,7 +35,7 @@ Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router
 * Select the build folder and check it
 * [Check the documentation](https://surge.sh/)
 
-Deployed on [loginpage-ivor.surge.sh](https://optimization-techniques-ivor.surge.sh)
+Deployed on [optimization-techniques-ivor.surge.sh](https://optimization-techniques-ivor.surge.sh)
 
 ## Created <a id="created"></a>
 
